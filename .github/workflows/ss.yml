@@ -1,3 +1,4 @@
 # This workflow has been disabled by a script.
 name: learn-github-actions
+on: [push]
 run-name: ${{ github.actor }} is learning GitHub Actions
